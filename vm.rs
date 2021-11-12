@@ -1,6 +1,6 @@
 // Axis AXISVM core module 
 // Axis Labs 2021
-// Writtem by Mohammadreza Ashouri and Florian Ahr  // ashourics@gmail.com 
+// Writtem by Luiz Carvalho  // luizcarvalhohen@gmail.com 
 // AXIS VM supports the EVM opcodes
 
 
